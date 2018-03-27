@@ -4,9 +4,9 @@ import org.junit.Test;
 
 public class HelloWorldIntegrationTest {
 
-  @Test
+/*  @Test
   public void test() {
     new HelloWorld().coveredByIntegrationTest();
-  }
+  }*/
 
 }
