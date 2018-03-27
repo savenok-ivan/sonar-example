@@ -4,9 +4,9 @@ import org.junit.Test;
 
 public class HelloWorldUnitTest {
 
-  @Test
+/*  @Test
   public void test() {
     new HelloWorld().coveredByUnitTest();
-  }
+  }*/
 
 }
